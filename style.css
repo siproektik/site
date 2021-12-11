@@ -1,0 +1,42 @@
+body {
+ background-image: url("ora.png");
+}
+
+h1{
+	text-align: center;
+	border: 2px solid #000;
+	padding: 10px 20px 10px 20px;
+	margin: 20px auto;
+	width: 1100px;
+	background-color: #FFFFFF;
+	border-radius: 20px;
+	font-size: 250%;
+}
+
+.osn{
+	text-align: center;
+}
+
+.block{
+	background-color: #FFFFFF;
+	text-align: left;
+	border: 2px solid #000;
+	padding: 5px 20px 5px 20px;
+	margin: 20px 10px 20px 10px;
+	font-size: auto;
+	border-radius: 20px;
+	float: left;
+	font-size: 175%;
+	width: auto;
+}
+
+.vtor{
+	margin-left: 100px;
+}
+.per{
+	margin-left: 50px;
+}
+
+@font-face{
+	src: url(r.ttf);
+}
