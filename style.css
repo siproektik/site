@@ -4,7 +4,7 @@ h1{
 	border: 3px solid #1925e6;
 	padding: 10px 20px 10px 20px;
 	margin: 20px auto;
-	width: 1025px;
+	width: 1000px;
 	background-color: #FFFFFF;
 	border-radius: 20px;
 	font-size: 250%;
@@ -23,7 +23,7 @@ h1{
 	font-size: auto;
 	border-radius: 20px;
 	font-size: 175%;
-	width: 800px;
+	width: 700px;
 	overflow: auto;
 }
 
