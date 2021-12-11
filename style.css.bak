@@ -22,9 +22,8 @@ h1{
 	margin: 20px auto;
 	font-size: auto;
 	border-radius: 20px;
-	float: left;
 	font-size: 175%;
-	width: 1025px;
+	width: 900px;
 	overflow: auto;
 }
 
